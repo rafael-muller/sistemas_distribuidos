@@ -26,3 +26,5 @@ if __name__ == "__main__":
 
     thread_decrescente.join()
     thread_decrescente.join()
+
+
